@@ -34,6 +34,8 @@ This project implements a fully serverless, event-driven and API-triggered image
 ├── lambda/
 │   └── lambda_function.py        # Python source code for image resizing (Pillow)
 ├── images/
+├── .gitignore
+├── LICENSE
 ├── statemachine/
 │   └── definition.json
 └── README.md                     # Project documentation
